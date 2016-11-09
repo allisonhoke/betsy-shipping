@@ -1,3 +1,5 @@
+# fyi-this is our API wrapper
+
 class ShippingService
   # You will need to implement each of the methods in this module
   # to interact with your API server and produce correct results.
